@@ -10,16 +10,16 @@ const Projects = () => {
       image: '/Frame 35.png',
       tags: ['Node.js', 'Mail', 'CMS', 'Tailwind', 'PostgreSQL'],
       github: 'https://github.com/NotMugil/tacomail',
-      external: '#',
+      external: 'https://github.com/NotMugil/tacomail',
       featured: true
     },
     {
       title: 'Youtube Music Together',
       description: 'A web app that allows synchronized playback for users. Create and join rooms for a shared listening experience, manage playlist queues, and enjoy seamless music sessions with friends. Perfect for group listening, collaborative playlists, and more.',
-      image: '/ytm.png',
+      image: '/ytm.jpg',
       tags: ['React', 'Node.js', 'Express', 'PostgreSQL', 'Youtube API'],
       github: 'https://github.com/nirmaleeswar30/yt_music_together',
-      external: '#',
+      external: 'https://github.com/nirmaleeswar30/yt_music_together',
       featured: true
     }
   ];
